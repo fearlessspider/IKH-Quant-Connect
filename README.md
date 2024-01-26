@@ -1,6 +1,21 @@
 # IKH-Quant-Connect
+
 Ichimoku Kinko Hyo strategy powered by Quant Connect https://www.quantconnect.com for Python
 
-# Support
+## 🚀 Features
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L37QTKJ)
+- Python
+- QuantConnect
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## ⭐️ Support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+The [MIT License](LICENSE)
+
